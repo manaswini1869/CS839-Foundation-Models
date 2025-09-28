@@ -1,0 +1,28 @@
+# Compiled files
+*.pyc
+*.o
+*.exe
+target/
+build/
+dist/
+
+# Dependency directories
+node_modules/
+.venv/
+env/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Log files and caches
+*.log
+npm-debug.log
+
+# Sensitive data
+.env
